@@ -9,6 +9,7 @@ namespace ConsoleAPP
     {
         static void Main(string[] args)
         {
+            Console.Out.WriteLine("123");
         }
     }
 }
