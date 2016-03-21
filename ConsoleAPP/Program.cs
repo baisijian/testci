@@ -10,6 +10,7 @@ namespace ConsoleAPP
         static void Main(string[] args)
         {
             Console.Out.WriteLine("333333333");
+            Console.Out.WriteLine("66666666");
         }
     }
 }
